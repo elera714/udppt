@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="udppt.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="23"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="anasayfafrm.pp"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAnaSayfa"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="149"/>
+        <CursorPos X="40" Y="181"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\components\indy-10.2.0.3\lazarus\IdAboutVCL.pas"/>
+        <TopLine Value="70"/>
+        <CursorPos X="3" Y="76"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="anasayfafrm.pp"/>
+        <Caret Line="155" Column="34" TopLine="138"/>
+      </Position1>
+      <Position2>
+        <Filename Value="anasayfafrm.pp"/>
+        <Caret Line="152" Column="24" TopLine="145"/>
+      </Position2>
+      <Position3>
+        <Filename Value="anasayfafrm.pp"/>
+        <Caret Line="21" Column="41"/>
+      </Position3>
+      <Position4>
+        <Filename Value="anasayfafrm.pp"/>
+        <Caret Line="72" Column="11" TopLine="58"/>
+      </Position4>
+      <Position5>
+        <Filename Value="anasayfafrm.pp"/>
+        <Caret Line="184" Column="5" TopLine="149"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
